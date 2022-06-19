@@ -1,3 +1,8 @@
+// Created by: Lucas Tyman
+// Created on: June 2022
+//
+// This program gives the weather
+
 using System;
 using System.Reflection;
 using System.Collections.Generic;
